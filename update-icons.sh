@@ -8,6 +8,8 @@
 src="${WORKSPACE}/icons"
 dst="${JENKINS_HOME}/userContent/customIcon"
 
+mkdir -p ${dst}
+
 # Update icons on Jenkins server
 for Icon in $(ls -1 ${src}/*.png); do
   filename=$(basename $Icon)
