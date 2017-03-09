@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   viewBox="0 0 515.6 111"
+   width="2500"
+   height="538"
+   version="1.1"
+   sodipodi:docname="gradle-elephant-logo.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="0.526"
+     inkscape:cx="193.47632"
+     inkscape:cy="269"
+     inkscape:current-layer="Layer_1" />
+  <style
+     id="style2">.st0{fill:#02303a}.st1{fill:#22da27}.st2{fill:#fff}</style>
+  <path
+     class="st0"
+     d="M173.5 44.9c4-9.2 3.9-18.3 1.5-25.5-3-8.8-15.3-20.4-19.2-15.8-.5.6-7.6-.2-8.7 1.3-1.7 2.2-.7 2.9.1 3.7 2.5 2.2 8.8 4.6 11.7 12.1 1.2 3.2 4 10.6-.9 15.1-5.5 5-11.7 6.2-37.1-17.4C93.9-6.7 57.7 3.5 45.7 7.5s-17.5 8-12.8 17.2c6.4 12.6 4.3 8.7 10.6 19.1 9.9 16.5 31.7-7.6 31.7-7.6-16.2 24.4-30.1 18.5-35.4 10-4.8-7.7-8.5-16.5-8.5-16.5-41 14.8-29.9 80-29.9 80h20.4c5.2-24 23.8-23.1 26.9 0h15.5c13.7-46.9 43.1 0 43.1 0h17.4c0-25-2.6-34.4 10.2-36.2 21.8-2.9 32-13.1 38.6-28.6z"
+     id="path4"
+     inkscape:export-xdpi="3.6118844"
+     inkscape:export-ydpi="3.6118844" />
+  <path
+     class="st0"
+     d="M176.6 28c-3.7.3-7.4.9-10.9 1.9-.1.1-.2.3-.3.4-1.6 1.8-3.6 3.5-5.8 4.5-.3.2-.6.3-.9.4l-.6.6c-5.5 5-12.2 6.2-37.1-17.4C94.3-6.9 57.8 3.5 45.8 7.5s-17.5 8-12.8 17.2c6.4 12.6 4.3 8.7 10.6 19.1 9.9 16.5 31.7-7.6 31.7-7.6-16.2 24.4-30.1 18.5-35.4 10-4.8-7.7-8.5-16.5-8.5-16.5-41 14.8-29.9 80-29.9 80h20.4c5.2-24 23.8-23.1 26.9 0h15.5c13.7-46.9 43.1 0 43.1 0h17.4c0-25-2.6-34.4 10.2-36.2 21.9-3 32-13.2 38.6-28.6 2.4-5.8 3.3-11.6 3-16.9z"
+     id="path12"
+     inkscape:export-xdpi="3.6118844"
+     inkscape:export-ydpi="3.6118844" />
+  <g
+     id="g18"
+     inkscape:export-xdpi="3.6118844"
+     inkscape:export-ydpi="3.6118844">
+    <path
+       class="st2"
+       d="M102.7 34.5s9.4 3.1 22 7.3c-.7 3.4-7 9.9-15.1 7.1-10.8-3.5-6.9-14.4-6.9-14.4z"
+       id="path14" />
+    <ellipse
+       transform="rotate(-6.066 113.363 41.285)"
+       class="st0"
+       cx="113.4"
+       cy="41.3"
+       rx="5.7"
+       ry="5.5"
+       id="ellipse16" />
+  </g>
+  <path
+     class="st0"
+     d="M147.2 8.7c.7.6 1.6 1.2 2.5 1.8 4.2-3.5 9.7-3.4 14.4-5.3-4.1-3.8-10.7-6.7-12.7-4.3-.5.6-3.1 2.6-4.2 4.1-1.8 2.2-.9 2.9 0 3.7z"
+     id="path20"
+     inkscape:export-xdpi="3.6118844"
+     inkscape:export-ydpi="3.6118844" />
+</svg>
