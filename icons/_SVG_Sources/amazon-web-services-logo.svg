@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2500"
+   height="939"
+   viewBox="1.578 2.062 116.844 43.875"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="amazon-web-services-logo.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.3988"
+     inkscape:cx="595.00628"
+     inkscape:cy="469.5"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M16.406 27.562l-4.656 2 4.312 1.844 5-1.844-4.656-2zm-7 2.5l-.156 9 6.812 3v-9.344l-6.656-2.656zm14 0l-6.156 2.344v8.812l6.156-2.5v-8.656zM30.75 2.062l-4.688 2 4.344 1.844 5-1.844-4.656-2zm-6.5 2.657v9l5.812 1.688.188-8.188-6-2.5zm13 .5l-5.5 2.344v8.844l5.5-2.5V5.219zM8.734 14.729l-4.656 2 4.312 1.844 5-1.844-4.656-2zm-7 2.5l-.156 9 6.812 3v-9.344l-6.656-2.656zm14 0l-6.156 2.344v8.812l6.156-2.5v-8.656zM23.734 14.397l-4.656 2 4.312 1.844 5-1.844-4.656-2zm-7 2.5l-.156 9 6.812 3v-9.343l-6.656-2.657zm14 0l-6.156 2.344v8.812l6.156-2.5v-8.656zM45.401 2.062l-4.656 2 4.312 1.844 5-1.844-4.656-2zm-7 2.5l-.156 9 6.812 3V7.219l-6.656-2.657zm14 0l-6.156 2.344v8.812l6.156-2.5V4.562z"
+     fill="#f7a80d"
+     id="path6"
+     inkscape:export-xdpi="2.804256"
+     inkscape:export-ydpi="2.804256" />
+</svg>
