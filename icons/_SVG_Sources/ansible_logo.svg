@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4210"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="ansible_log_only.svg">
+  <defs
+     id="defs4204" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="180.60031"
+     inkscape:cy="423.40717"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <metadata
+     id="metadata4207">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5083">
+      <flowRoot
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+         id="flowRoot4234"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4236"><rect
+             y="1473.9482"
+             x="-214.28572"
+             height="224.38098"
+             width="355.98807"
+             id="rect4238" /></flowRegion><flowPara
+           id="flowPara4240"></flowPara></flowRoot>      <path
+         id="path5055"
+         d="m 285.48409,68.053963 c 0,147.946177 -119.92345,267.869627 -267.873826,267.869627 -147.935684,0 -267.871724,-119.92345 -267.871724,-267.869627 0,-147.935679 119.93604,-267.871723 267.871724,-267.871723 147.948276,0 267.873826,119.936044 267.873826,267.871723"
+         inkscape:connector-curvature="0"
+         style="fill:#1a1918;stroke-width:2.09986758" />
+      <path
+         id="path5057"
+         d="M 22.12078,-36.18137 91.439513,134.90745 -13.26619,52.428848 22.12078,-36.17927 Z M 145.26542,174.31987 38.638339,-82.288165 c -3.044808,-7.399934 -9.130224,-11.318287 -16.517559,-11.318287 -7.402034,0 -13.9305222,3.918353 -16.9753303,11.318287 L -111.88438,199.1781 h 40.033981 L -25.523118,83.128913 112.73217,194.82088 c 5.55835,4.49581 9.5712,6.53058 14.78517,6.53058 10.44474,0 19.57497,-7.8325 19.57497,-19.13189 0,-1.83948 -0.65096,-4.7604 -1.82689,-7.8997 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke-width:2.09986758" />
+    </g>
+  </g>
+</svg>
